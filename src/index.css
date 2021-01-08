@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap");
+
+.app {
+  text-align: center;
+  padding-top: 40vh;
+  font-family: "Inter", sans-serif;
+}
+
+.app h2 {
+  margin: 0;
+  width: 50%;
+  min-width: 500px;
+  margin: auto;
+  color: #444;
+  font-size: 2rem;
+  border: 3px solid gray;
+  border-radius: 6px;
+  padding: 1.4rem;
+}
